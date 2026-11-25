@@ -1,177 +1,20 @@
 {
-  "title": "Grand Frontier - King of the Seas",
+  "title": "A Hunter's Dawn",
   "author": "Yahya Ali Khan",
-  "art_style": "classic_bw",
+  "art_style": "modern_color",
   "pages": [
     {
       "page_number": 1,
-      "template_name": "three_classic",
+      "template_name": "full_splash",
       "panels": [
         {
           "panel_id": 1,
-          "prompt": "wide shot. The sea of the Grand Frontier churned with violent emerald waves under a sky dark with swirling typhoon clouds. Perched upon the carved wooden figurehead of the",
-          "setting": "The sea of the Grand Frontier churned with violent emerald waves under a sky dar",
-          "characters": [
-            "Kael"
-          ],
-          "action": "The sea of the Grand Frontier churned with violent emerald waves under a sky dark with swirling typhoon clouds. Perched upon the carved wooden figurehead of the pirate ship Leviathan stood Captain Kael, his battered red coat snapping wildly against the ocean wind.",
-          "dialogue": [],
-          "camera_angle": "wide",
-          "aspect_ratio": "square",
-          "generated_image_path": null
-        },
-        {
-          "panel_id": 2,
-          "prompt": "medium shot. Below on the wet deck, his first mate Mara gripped the ship's wheel with both hands, steering into the monstrous swells.",
-          "setting": "Below on the wet deck, his first mate Mara gripped the ship's wheel with both ha",
+          "prompt": "medium shot. hello babe yes babe",
+          "setting": "hello babe yes babe",
           "characters": [],
-          "action": "Below on the wet deck, his first mate Mara gripped the ship's wheel with both hands, steering into the monstrous swells.",
+          "action": "hello babe yes babe",
           "dialogue": [],
           "camera_angle": "medium",
-          "aspect_ratio": "square",
-          "generated_image_path": null
-        },
-        {
-          "panel_id": 3,
-          "prompt": "medium shot. ",
-          "setting": "",
-          "characters": [
-            "Kael"
-          ],
-          "action": "",
-          "dialogue": [
-            {
-              "speaker": "Mara",
-              "text": "The whirlpool ahead is tearing the hull apart, Kael! We can't punch through this gale!",
-              "bubble_type": "speech",
-              "placement": "auto"
-            }
-          ],
-          "camera_angle": "medium",
-          "aspect_ratio": "square",
-          "generated_image_path": null
-        }
-      ],
-      "rendered_page_path": null
-    },
-    {
-      "page_number": 2,
-      "template_name": "four_grid",
-      "panels": [
-        {
-          "panel_id": 4,
-          "prompt": "medium shot. Kael adjusted his straw-stitched captain's hat and grinned with fearless determination, looking straight into the heart of the vortex where legendary sea monste",
-          "setting": "Kael adjusted his straw-stitched captain's hat and grinned with fearless determi",
-          "characters": [
-            "Kael"
-          ],
-          "action": "Kael adjusted his straw-stitched captain's hat and grinned with fearless determination, looking straight into the heart of the vortex where legendary sea monsters coiled in the deep.",
-          "dialogue": [],
-          "camera_angle": "medium",
-          "aspect_ratio": "square",
-          "generated_image_path": null
-        },
-        {
-          "panel_id": 5,
-          "prompt": "medium shot. ",
-          "setting": "",
-          "characters": [
-            "Kael"
-          ],
-          "action": "",
-          "dialogue": [
-            {
-              "speaker": "Kael",
-              "text": "A true adventurer never turns the rudder back! Set full sails forward!",
-              "bubble_type": "speech",
-              "placement": "auto"
-            }
-          ],
-          "camera_angle": "medium",
-          "aspect_ratio": "square",
-          "generated_image_path": null
-        },
-        {
-          "panel_id": 6,
-          "prompt": "wide shot. Suddenly, a massive sea beast erupted from the whirlpool, its razor-scaled serpent body towering three hundred feet above their mast, roaring into the storm.",
-          "setting": "Suddenly, a massive sea beast erupted from the whirlpool, its razor-scaled serpe",
-          "characters": [],
-          "action": "Suddenly, a massive sea beast erupted from the whirlpool, its razor-scaled serpent body towering three hundred feet above their mast, roaring into the storm.",
-          "dialogue": [],
-          "camera_angle": "wide",
-          "aspect_ratio": "square",
-          "generated_image_path": null
-        },
-        {
-          "panel_id": 7,
-          "prompt": "medium shot. ",
-          "setting": "",
-          "characters": [
-            "Mara"
-          ],
-          "action": "",
-          "dialogue": [
-            {
-              "speaker": "Mara",
-              "text": "Incoming beast! All hands brace for impact!",
-              "bubble_type": "speech",
-              "placement": "auto"
-            }
-          ],
-          "camera_angle": "medium",
-          "aspect_ratio": "square",
-          "generated_image_path": null
-        }
-      ],
-      "rendered_page_path": null
-    },
-    {
-      "page_number": 3,
-      "template_name": "three_classic",
-      "panels": [
-        {
-          "panel_id": 8,
-          "prompt": "wide shot. Kael leaped from the bowsprit straight into the sky, pulling back his fist as black lightning sparkled along his arm.",
-          "setting": "Kael leaped from the bowsprit straight into the sky, pulling back his fist as bl",
-          "characters": [
-            "Kael"
-          ],
-          "action": "Kael leaped from the bowsprit straight into the sky, pulling back his fist as black lightning sparkled along his arm.",
-          "dialogue": [],
-          "camera_angle": "wide",
-          "aspect_ratio": "square",
-          "generated_image_path": null
-        },
-        {
-          "panel_id": 9,
-          "prompt": "medium shot. ",
-          "setting": "",
-          "characters": [
-            "Kael"
-          ],
-          "action": "",
-          "dialogue": [
-            {
-              "speaker": "Kael",
-              "text": "Gale Fist... METEOR CRASH!",
-              "bubble_type": "speech",
-              "placement": "auto"
-            }
-          ],
-          "camera_angle": "medium",
-          "aspect_ratio": "square",
-          "generated_image_path": null
-        },
-        {
-          "panel_id": 10,
-          "prompt": "dramatic shot. With an earth-shattering shockwave, Kael struck the leviathan's armored skull, splitting the storm clouds above into golden daylight and carving an open passage",
-          "setting": "With an earth-shattering shockwave, Kael struck the leviathan's armored skull, s",
-          "characters": [
-            "Kael"
-          ],
-          "action": "With an earth-shattering shockwave, Kael struck the leviathan's armored skull, splitting the storm clouds above into golden daylight and carving an open passage across the mythical ocean.",
-          "dialogue": [],
-          "camera_angle": "dramatic",
           "aspect_ratio": "square",
           "generated_image_path": null
         }
