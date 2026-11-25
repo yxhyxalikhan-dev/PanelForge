@@ -2,7 +2,17 @@
 
 An autonomous, end-to-end engine that transforms raw text stories into publication-ready manga and graphic novel pages with intelligent panel layouts, character staging, procedural screentone visuals, auto-fitted speech bubble lettering, and multi-page PDF compilation.
 
-Developed from scratch by **Yahya Ali Khan** (`@yxhyxalikhan-dev`).
+Developed from scratch by **Yahya Ali Khan** ([@yxhyxalikhan-dev](https://github.com/yxhyxalikhan-dev)).
+
+---
+
+## 📖 Sample Generated Manga Output
+
+Below is an authentic sample manga page generated with **PanelForge**, featuring dynamic 2-panel narrative pacing, character dialogue, screentone shading, and phone screen focus:
+
+<p align="center">
+  <img src="docs/images/manga_heroine_showcase.png" alt="PanelForge Generated Manga Page" width="540"/>
+</p>
 
 ---
 
@@ -42,6 +52,7 @@ Clone the repository and install dependencies:
 git clone https://github.com/yxhyxalikhan-dev/PanelForge.git
 cd PanelForge
 pip install -r requirements.txt
+pip install -e .
 ```
 
 ### 2. Run the Demo
@@ -56,7 +67,7 @@ Outputs will be saved in `output/`:
 
 ### 3. Generate from Your Own Story
 ```bash
-python3 -m panelforge run my_story.txt --style classic_bw --title "My Manga"
+python3 -m panelforge run examples/grand_frontier_shonen.txt --style classic_bw --title "King of the Seas"
 ```
 Flags:
 - `--style`: `classic_bw` (traditional manga) or `modern_color` (webtoon palette).
@@ -93,6 +104,8 @@ PanelForge/
 │   ├── web/           # FastAPI web studio & dashboard
 │   ├── cli.py         # Command-line entry points
 │   └── __main__.py    # Module runner
+├── docs/
+│   └── images/        # High-res manga artwork showcased in README
 ├── tests/             # PyTest test suite
 ├── examples/          # Sample story prose
 ├── output/            # Rendered PNG pages, state JSON, and final PDF
