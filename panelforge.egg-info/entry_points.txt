@@ -1,0 +1,2 @@
+[console_scripts]
+panelforge = panelforge.cli:main

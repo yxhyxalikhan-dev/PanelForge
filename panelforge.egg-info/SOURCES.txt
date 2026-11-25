@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+panelforge/__init__.py
+panelforge/__main__.py
+panelforge/cli.py
+panelforge.egg-info/PKG-INFO
+panelforge.egg-info/SOURCES.txt
+panelforge.egg-info/dependency_links.txt
+panelforge.egg-info/entry_points.txt
+panelforge.egg-info/requires.txt
+panelforge.egg-info/top_level.txt
+tests/test_pipeline.py
