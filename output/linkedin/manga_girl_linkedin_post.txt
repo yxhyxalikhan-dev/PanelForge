@@ -1,0 +1,19 @@
+⚔️ Bringing Manga to Life: How I Built PanelForge — An Autonomous Story-to-Manga Generation Pipeline! ⚡
+
+Turning written scripts into dynamic manga pages has always been a massive bottleneck for creators. Between panel framing, screentone shading, character staging, and lettering, a single page takes hours.
+
+I engineered PanelForge from scratch to automate the full pipeline:
+1️⃣ Narrative & Script Extraction: Natural language parser detects characters, splits beats into panel sequences, and isolates dialogue with camera perspectives.
+2️⃣ Mathematical Page Grid: Calculates proportional panel boxes for full-page splashes, 2x2 grids, and 5-panel action sequences.
+3️⃣ Procedural Manga Art Engine: Crafts authentic black-and-white screentone shading, action speedlines, and anime character silhouettes (featuring our action heroine Kira, Blade of the Eclipse) with ZERO paid API costs!
+4️⃣ Auto-Fitting Speech Balloon Lettering: Intelligently sizes text, renders curved speech balloons, shout spikes, and directional pointer tails.
+5️⃣ Multi-Page Print PDF: Instant high-res export ready for publication.
+
+Tech Stack: Python, FastAPI, Pillow, ReportLab, and PyTest.
+
+🌐 Try the Live Public App: https://underlying-brandon-picks-candle.trycloudflare.com
+🔗 GitHub Repository: https://github.com/yxhyxalikhan-dev/PanelForge
+
+Swipe through the video above to see the breakdown from character design to final 4-panel page layout! 🎬
+
+#Python #OpenSource #AI #Manga #Comics #CreativeTech #FastAPI #GenerativeAI #SoftwareEngineering #IndieHacker
