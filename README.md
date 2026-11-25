@@ -8,11 +8,24 @@ Developed from scratch by **Yahya Ali Khan** ([@yxhyxalikhan-dev](https://github
 
 ## 📖 Sample Generated Manga Output
 
-Below is an authentic sample manga page generated with **PanelForge**, featuring dynamic 2-panel narrative pacing, character dialogue, screentone shading, and phone screen focus:
+Below is an authentic sample manga page generated with **PanelForge**, featuring dynamic narrative pacing, Japanese character dialogue, screentone shading, and phone screen focus:
 
 <p align="center">
   <img src="docs/images/manga_heroine_showcase.png" alt="PanelForge Generated Manga Page" width="540"/>
 </p>
+
+### 📚 5-Page Action Chapter: *"Chapter 1: The Relic Hunter"*
+Generated from raw prose story featuring **Kira & Ren**:
+
+<p align="center">
+  <img src="docs/images/chapter_one/page_01_discovery.png" width="18%" alt="Page 1"/>
+  <img src="docs/images/chapter_one/page_02_ambush.png" width="18%" alt="Page 2"/>
+  <img src="docs/images/chapter_one/page_03_clash.png" width="18%" alt="Page 3"/>
+  <img src="docs/images/chapter_one/page_04_revelation.png" width="18%" alt="Page 4"/>
+  <img src="docs/images/chapter_one/page_05_dawn.png" width="18%" alt="Page 5"/>
+</p>
+
+> 📄 **Download Complete PDF:** [`docs/images/chapter_one/Chapter_01_Kira_Dawn.pdf`](docs/images/chapter_one/Chapter_01_Kira_Dawn.pdf)
 
 ---
 
