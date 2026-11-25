@@ -1,0 +1,16 @@
+🚀 Excited to unveil my latest open-source project: PanelForge — an autonomous AI Story-to-Manga & Comic Generation Engine!
+
+As creators, turning written stories into graphic novels has traditionally required months of manual storyboarding, panel grid mathematics, character staging, and tedious speech bubble lettering. I wanted to build an end-to-end pipeline that transforms raw text prose into publication-ready manga pages in seconds.
+
+Here is how PanelForge works:
+1️⃣ Scene & Action Parsing: Analyzes narrative beats, detects characters, and extracts dialogue with speaker tags.
+2️⃣ Intelligent Layout Engine: Computes dynamic manga panel geometry (from dramatic full-page splashes to 2x2 grids and dynamic 5-panel action layouts).
+3️⃣ Pluggable Visual Generator: Features a built-in clean procedural screentone & line-art engine that runs 100% offline, with pluggable support for image generation APIs.
+4️⃣ Auto-Fitting Lettering: Shapes speech bubbles, thought clouds, and shout balloons with automatic typography font-fitting and pointer tails.
+5️⃣ Compositor & PDF Export: Assembles pages into crisp, publication-ready multi-page PDFs.
+
+Built from scratch using Python, FastAPI, Pillow, ReportLab, and PyTest.
+
+🔗 Check out the source code and try it: https://github.com/yxhyxalikhan-dev/PanelForge
+
+#AI #Python #OpenSource #Manga #Comics #CreativeTech #FastAPI

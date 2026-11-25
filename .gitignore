@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.env
+output/*.pdf
+output/*.png
+!output/page_01.png
+!output/page_02.png
+!output/page_03.png

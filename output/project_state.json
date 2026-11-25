@@ -1,0 +1,188 @@
+{
+  "title": "A Hunter's Dawn",
+  "author": "Yahya Ali Khan",
+  "art_style": "classic_bw",
+  "pages": [
+    {
+      "page_number": 1,
+      "template_name": "three_classic",
+      "panels": [
+        {
+          "panel_id": 1,
+          "prompt": "medium shot. The Obsidian Citadel had stood silent above the misty canyon for seven hundred years, its jagged spires piercing the low-hanging thunderclouds. At the edge of t",
+          "setting": "The Obsidian Citadel had stood silent above the misty canyon for seven hundred y",
+          "characters": [
+            "Ren"
+          ],
+          "action": "The Obsidian Citadel had stood silent above the misty canyon for seven hundred years, its jagged spires piercing the low-hanging thunderclouds. At the edge of the fractured stone precipice stood Ren, his black travelling cloak whipping in the gale. The wind carried the metallic scent of approaching lightning.",
+          "dialogue": [],
+          "camera_angle": "medium",
+          "aspect_ratio": "square",
+          "generated_image_path": null
+        },
+        {
+          "panel_id": 2,
+          "prompt": "medium shot. Ren tightened the leather gauntlets around his hands. Beside him, Aoi rested her fingers on the pommel of her ancestral broadsword. Her silver hair glimmered ag",
+          "setting": "Ren tightened the leather gauntlets around his hands. Beside him, Aoi rested her",
+          "characters": [
+            "Ren",
+            "Aoi"
+          ],
+          "action": "Ren tightened the leather gauntlets around his hands. Beside him, Aoi rested her fingers on the pommel of her ancestral broadsword. Her silver hair glimmered against the gathering gloom.",
+          "dialogue": [],
+          "camera_angle": "medium",
+          "aspect_ratio": "square",
+          "generated_image_path": null
+        },
+        {
+          "panel_id": 3,
+          "prompt": "medium shot. ",
+          "setting": "",
+          "characters": [
+            "Ren",
+            "Aoi"
+          ],
+          "action": "",
+          "dialogue": [
+            {
+              "speaker": "Aoi",
+              "text": "The barrier frequency is failing, Ren. Look at the perimeter runes!",
+              "bubble_type": "speech",
+              "placement": "auto"
+            }
+          ],
+          "camera_angle": "medium",
+          "aspect_ratio": "square",
+          "generated_image_path": null
+        }
+      ],
+      "rendered_page_path": null
+    },
+    {
+      "page_number": 2,
+      "template_name": "four_grid",
+      "panels": [
+        {
+          "panel_id": 4,
+          "prompt": "medium shot. Ren stepped forward, peering down into the abyss where deep violet runes flickered erratically along the fortress foundation. The ancient ward was decaying, let",
+          "setting": "Ren stepped forward, peering down into the abyss where deep violet runes flicker",
+          "characters": [
+            "Ren"
+          ],
+          "action": "Ren stepped forward, peering down into the abyss where deep violet runes flickered erratically along the fortress foundation. The ancient ward was decaying, letting loose an unsettling subsonic vibration that shook the earth beneath their boots.",
+          "dialogue": [],
+          "camera_angle": "medium",
+          "aspect_ratio": "square",
+          "generated_image_path": null
+        },
+        {
+          "panel_id": 5,
+          "prompt": "medium shot. ",
+          "setting": "",
+          "characters": [
+            "Ren"
+          ],
+          "action": "",
+          "dialogue": [
+            {
+              "speaker": "Ren",
+              "text": "They broke the seal from the inside. We are already too late for negotiations.",
+              "bubble_type": "speech",
+              "placement": "auto"
+            }
+          ],
+          "camera_angle": "medium",
+          "aspect_ratio": "square",
+          "generated_image_path": null
+        },
+        {
+          "panel_id": 6,
+          "prompt": "wide shot. Suddenly, the great iron gates of the citadel shattered outward with a deafening roar. Shockwaves tore across the courtyard, blasting centuries of dust into the",
+          "setting": "Suddenly, the great iron gates of the citadel shattered outward with a deafening",
+          "characters": [],
+          "action": "Suddenly, the great iron gates of the citadel shattered outward with a deafening roar. Shockwaves tore across the courtyard, blasting centuries of dust into the tempestuous air. From the churning darkness emerged a towering titan forged of dark iron and glowing crimson sigils.",
+          "dialogue": [],
+          "camera_angle": "wide",
+          "aspect_ratio": "square",
+          "generated_image_path": null
+        },
+        {
+          "panel_id": 7,
+          "prompt": "medium shot. ",
+          "setting": "",
+          "characters": [
+            "Aoi"
+          ],
+          "action": "",
+          "dialogue": [
+            {
+              "speaker": "Aoi",
+              "text": "Take evasive maneuvers! It's an ancient Dread Warden!",
+              "bubble_type": "speech",
+              "placement": "auto"
+            }
+          ],
+          "camera_angle": "medium",
+          "aspect_ratio": "square",
+          "generated_image_path": null
+        }
+      ],
+      "rendered_page_path": null
+    },
+    {
+      "page_number": 3,
+      "template_name": "three_classic",
+      "panels": [
+        {
+          "panel_id": 8,
+          "prompt": "dramatic shot. Ren drew his twin runic blades in a single fluid arc. Electric blue sparks crackled down the edges of the steel, illuminating his determined expression.",
+          "setting": "Ren drew his twin runic blades in a single fluid arc. Electric blue sparks crack",
+          "characters": [
+            "Ren"
+          ],
+          "action": "Ren drew his twin runic blades in a single fluid arc. Electric blue sparks crackled down the edges of the steel, illuminating his determined expression.",
+          "dialogue": [],
+          "camera_angle": "dramatic",
+          "aspect_ratio": "square",
+          "generated_image_path": null
+        },
+        {
+          "panel_id": 9,
+          "prompt": "dramatic shot. ",
+          "setting": "",
+          "characters": [
+            "Ren",
+            "Aoi"
+          ],
+          "action": "",
+          "dialogue": [
+            {
+              "speaker": "Ren",
+              "text": "Hold the flank, Aoi! I will strike the core rune on its chest!",
+              "bubble_type": "speech",
+              "placement": "auto"
+            }
+          ],
+          "camera_angle": "dramatic",
+          "aspect_ratio": "square",
+          "generated_image_path": null
+        },
+        {
+          "panel_id": 10,
+          "prompt": "dramatic shot. With a thunderous leap, Ren propelled himself into the air, blades trailing arcs of brilliant cerulean fire as the dread warden swung its massive spiked mace do",
+          "setting": "With a thunderous leap, Ren propelled himself into the air, blades trailing arcs",
+          "characters": [
+            "Ren"
+          ],
+          "action": "With a thunderous leap, Ren propelled himself into the air, blades trailing arcs of brilliant cerulean fire as the dread warden swung its massive spiked mace downward to crush him.",
+          "dialogue": [],
+          "camera_angle": "dramatic",
+          "aspect_ratio": "square",
+          "generated_image_path": null
+        }
+      ],
+      "rendered_page_path": null
+    }
+  ],
+  "metadata": {}
+}
